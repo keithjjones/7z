@@ -5,3 +5,7 @@
 **/x64
 *.opendb
 *.sdf
+*.dll
+*.exe
+*.lib
+*.obj
