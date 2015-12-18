@@ -1,0 +1,12 @@
+# Visual Studio Files
+**/.vs/
+**/Debug/
+**/Release/
+**/x64/
+**/ipch/
+*.opendb
+*.sdf
+*.dll
+*.exe
+*.lib
+*.obj
