@@ -1,0 +1,7 @@
+# Visual Studio Files
+**/.vs/
+**/Debug/
+**/Release
+**/x64
+*.opendb
+*.sdf
