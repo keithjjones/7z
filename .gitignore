@@ -4,6 +4,8 @@
 **/Release/
 **/x64/
 **/ipch/
+**/O/
+**/AMD64/
 *.opendb
 *.sdf
 *.dll
