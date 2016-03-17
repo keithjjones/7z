@@ -12,3 +12,4 @@
 *.exe
 *.lib
 *.obj
+*.pdb
